@@ -29,6 +29,6 @@ Additionally, if the starter base is usurped by the owner's current base or is s
 
 Iskall's hobbit hole meets both the second and third criteria, but Mumbo's and Grian's hobbit holes meet none of them.
 
-- What about <insert build name here>?
+- What about \<insert build name here\>?
   
 If you think I've missed a build, feel free to tell me in the comments on the reddit post at https://www.reddit.com/r/HermitCraft/comments/ip14wc/map_of_major_season_7_builds/. I will however require the builder's name and episode number if I am to actually add the build to the map.
