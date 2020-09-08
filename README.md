@@ -10,6 +10,8 @@ Here you may find the main version of the map, an alternate version with text la
 3. All locations are approximate; however, I have attempted to ensure that each build at least overlaps the corresponding head.
 4. If you use this map as your desktop background, icons near the edges may be off screen. On my computer, this currently affects the map district.
 
+<overworld_map_9_8.png>
+
 # FAQ:
 - Where is xB?
 
