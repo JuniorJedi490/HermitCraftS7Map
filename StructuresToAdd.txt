@@ -5,6 +5,7 @@ Builds:
 -The area containing Impulse's raid and chorus fruit farms
 -Magic crystals (across the bay from Cub)
 -GG map
+-Zedaph's golf course
 
 Separate currently merged builds:
 -Bdubs' castle and base
