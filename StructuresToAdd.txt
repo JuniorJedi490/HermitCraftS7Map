@@ -1,11 +1,17 @@
-Xisuma's castle by PearlescentMoon
-Etho's ice farm, as commented by TheNargle
-Guardian farms (Jevin if not out of range, Impulse, False)
-The area containing Impulse's raid and chorus fruit farms
-Magic crystals (across the bay from Cub)
-GG map
+Builds:
+-Xisuma's castle by PearlescentMoon
+-Etho's ice farm, as commented by TheNargle
+-Guardian farms (Jevin if not out of range, Impulse, False)
+-The area containing Impulse's raid and chorus fruit farms
+-Magic crystals (across the bay from Cub)
+-GG map
 
-Separate Bdubs' castle and base
-Possibly separate Joerassic Bark from the Strait of Joebraltar
+Separate currently merged builds:
+-Bdubs' castle and base
+-Joerassic Bark and Strait of Joebraltar, potentially
 
-Fix spelling of 'Hermitterranean Sea'
+Tweaks/Changes:
+-Fix spelling of 'Hermitterranean Sea'
+
+That's enough for an update, but:
+-Wait ~1 week more to see if Xisuma will revert to the Beesuma skin
