@@ -32,4 +32,4 @@ Iskall's hobbit hole meets both the second and third criteria, but Mumbo's and G
 
 - What about \<insert build name here\>?
   
-If you think I've missed a build, feel free to tell me in the comments on the reddit post at https://www.reddit.com/r/HermitCraft/comments/ip14wc/map_of_major_season_7_builds/. I will however require the builder's name and episode number if I am to actually add the build to the map.
+If you think I've missed a build, please report it as an issue, since my post on r/Hermitcraft is archived. I will however require the builder's name and episode number if I am to actually add the build to the map.
