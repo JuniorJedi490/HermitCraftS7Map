@@ -15,20 +15,16 @@ Here you may find the main version of the map, an alternate version with text la
 
 Despite the large area this map encompasses, it still is not large enough to reach most of xB's builds. The distance between xB and the top right corner of the map is approximately the same as the distance between Keralis' city and the Straight of Joebraltar.
 
-- Where is Scar's base?
-
-Scar has moved Big Bud, which was previously his base, into the Nether. A map of the Nether is planned, but does not exist yet.
-
 - Why is Iskall's hobbit hole shown on the map, but Mumbo's and Grian's are not?
 
 I'm only showing starter bases if they meet one of the following criteria:
 1. The base consists of or contains a very large build (e.g. Scar's village) or covers a wide area.
-2. The owner continues to return to the base for one reason or another (e.g. Iskall's hobbit hole, which contains his villagers).
+2. The owner continues to return to the base for one reason or another.
 3. The starter base is distant from the owner's current base (e.g. Loser Island).
 
 Additionally, if the starter base is usurped by the owner's current base or is so close that the icons would overlap, the starter base will be omitted.
 
-Iskall's hobbit hole meets both the second and third criteria, but Mumbo's and Grian's hobbit holes meet none of them.
+Iskall's hobbit hole meets the third criteron, but Mumbo's and Grian's hobbit holes meet none of them.
 
 - What about \<insert build name here\>?
   
